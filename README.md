@@ -9,4 +9,4 @@ Sample geometries for gustaf examples.
 
 *Volumes*
 - hex
-- quad
+- tet
